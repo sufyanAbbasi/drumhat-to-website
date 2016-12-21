@@ -1,0 +1,3 @@
+[submodule "drum-hat"]
+	path = drum-hat
+	url = https://github.com/pimoroni/drum-hat
